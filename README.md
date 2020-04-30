@@ -9,9 +9,9 @@
 > Thanks Javier Aviles for the API
 https://github.com/javieraviles/covidAPI
 
-##ScreenShots
+## ScreenShots
 
-####Home Page
+#### Home Page
 ![](https://i.ibb.co/sCYF5MD/Simulator-Screen-Shot-i-Phone-11-Pro-Max-2020-04-30-at-20-23-17.png)  
 
 #### World stats
