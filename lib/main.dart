@@ -22,7 +22,6 @@ class MyApp extends StatelessWidget {
 class MiddleWarePage extends StatefulWidget {
   @override
   State<StatefulWidget> createState() {
-    // TODO: implement createState
     return _MiddleWarePage();
   }
 }
